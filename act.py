@@ -8,7 +8,6 @@ arr2 = np.array(['banana', 'cherry', 'apple'])
 #Defining the sorting function
 def srt_ar_asc():
     #write a code to sort in ascending
-    newarr3 = np.sort(arr1)
     label.config(text=newarr3)
 
 def srt_ar_dsc():
